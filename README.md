@@ -33,15 +33,15 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Tweet Opensea Sale Bot</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Simple Tweepy bot that tweets out the most recent sale on OpenSea for a specific collection
     <br />
     <a href="https://github.com/ncvanegmond/tweet_opensea_sale_bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ncvanegmond/tweet_opensea_sale_bot">View Demo</a>
+    <a href="https://twitter.com/CryptoTargetBot">View Demo</a>
     ·
     <a href="https://github.com/ncvanegmond/tweet_opensea_sale_bot/issues">Report Bug</a>
     ·
