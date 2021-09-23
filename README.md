@@ -173,6 +173,7 @@ Project Link: [https://github.com/ncvanegmond/tweet_opensea_sale_bot](https://gi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Miguel Garcia's 'How to make a Twitter bot in Python with Tweepy'](https://realpython.com/twitter-bot-python-tweepy/#creating-twitter-api-authentication-credentials)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
 
