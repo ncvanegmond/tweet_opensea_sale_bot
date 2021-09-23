@@ -29,9 +29,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ncvanegmond/tweet_opensea_sale_bot">
+  <!--<a href="https://github.com/ncvanegmond/tweet_opensea_sale_bot">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a>-->
 
   <h3 align="center">Tweet Opensea Sale Bot</h3>
 
